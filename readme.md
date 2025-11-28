@@ -107,12 +107,8 @@ For initial testing, you can use the following admin credentials:
 *   **Email:** `admin@mentor.edu`
 *   **Password:** `password` (This password is hashed in the database. You might need to re-hash it or use the `hash_password.php` script to create new admin users.)
 
-## 🤝 alfred Contributing
-
-My name is alfred and this is my own contribution, Contributions are welcome! Please feel free to fork the repository, create pull requests, or open issues for bugs and feature requests.
-
-##  Alfred Landry Contribution 
-My name is Alfred and this is my contribution
+## 🤝 alfred contribution 
+My Name is Alfred and this is my own contribution
 
 ## 📞 Support
 
